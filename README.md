@@ -1,1 +1,1 @@
-# agGrid-PivotTable
+# agGrid-Pivot-Extension
